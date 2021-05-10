@@ -1,0 +1,4 @@
+tungbt 0
+admin 0
+levn 0
+ductq 1
