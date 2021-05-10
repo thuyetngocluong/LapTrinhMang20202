@@ -21,7 +21,6 @@ int SERVER_PORT;//# Port of server
 WSADATA wsaData;
 WORD wVersion = MAKEWORD(2, 2);//# version of winsock
 
-
 /*
 * @struct FD_SET_MANAGEMENT: manage accounts in a fd_set
 **/
